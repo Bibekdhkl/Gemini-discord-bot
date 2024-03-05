@@ -6,7 +6,7 @@ Try the Gemini Bot by adding to your discord server : [Click here to Add](https:
 After adding the bot to your discord server then you can simply tag the bot and ask question as below after which you will get your answers shortly 😉
 ![alt text](Images/image-3.png)
 
-The Bot won't give any response as My currently it only works locally. Will host soon at Replit:D
+The Bot won't give any response as currently it only works locally. Will host soon at Replit:D
 
 ### Setup Initial Coding Workspace
 Execute this commands on your IDE on a directory you want to work on
