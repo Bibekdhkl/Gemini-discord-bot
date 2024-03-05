@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-gemini",
+  "version": "1.0.0",
+  "description": "1. Get Discord API Key via : https://discord.com/developers/applications\r 2. Get Gemini API Key via: https://makersuite.google.com/\r 3. `npm init`\r 4. `npm install dotenv google-auth-library @google-ai/generativelanguage`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-ai/generativelanguage": "^2.1.0",
+    "@google/generative-ai": "^0.2.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "google-auth-library": "^9.6.3"
+  }
+}
